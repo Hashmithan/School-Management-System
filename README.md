@@ -18,8 +18,8 @@ It helps school administrators efficiently manage students, teachers, subjects, 
 - **Reporting**: RDLC Reports integrated for report generation  
 
 ## Screenshots
-![Student Management](Screenshots/student.png)  
-![Teacher Management](Screenshots/teacher.png)
+![Student Management](student.png)  
+![Teacher Management](teacher.png)
 
 ## Note
 The complete Visual Studio project files are not uploaded due to environment dependency.  
